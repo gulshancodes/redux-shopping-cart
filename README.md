@@ -2,7 +2,7 @@
 
 ### [Demo Link](https://reduxtoolkit-shop-cart.netlify.app/) 🔗
 
-**Shopping Cart Project** built with **React JS** + **Redux-Toolkit**.
+**Shopping Cart Project** built with **React** + **Redux-Toolkit**.
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 <br/>
 
-## Available Scripts
+## Available Scripts:
 
 #### `npm start`
 
